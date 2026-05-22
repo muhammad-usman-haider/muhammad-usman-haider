@@ -4,6 +4,21 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+```
+📊 GitHub Contributions Streak
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Current Streak: 🔥 Active & Growing
+Consistency: ⭐ Committed to Daily Development
+Impact: 💪 Building Momentum
+```
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-usman-haider&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## 📊 GitHub Overview
 
 - **5+ Active Projects** in Machine Learning, AI, and Data Science
@@ -113,6 +128,7 @@
 ✅ **Continuous Learning** - Always exploring emerging technologies  
 ✅ **Problem-Solving Mindset** - Focused on practical, impactful solutions  
 ✅ **Clean Code** - Well-documented, maintainable implementations  
+✅ **Daily Commitment** - Consistent contribution streak  
 
 ---
 
@@ -144,6 +160,7 @@
 - **Specialization:** Machine Learning & Data Science
 - **License Type:** MIT (Open Source)
 - **Profile Status:** Open to Opportunities & Collaboration
+- **Contribution Consistency:** 🔥 Active Streak
 
 ---
 
@@ -154,5 +171,9 @@
 **Passionate about Machine Learning | Data Science | AI Innovation**
 
 *Building intelligent solutions one algorithm at a time*
+
+---
+
+**Last Updated:** May 2026 | [View Full GitHub Profile](https://github.com/muhammad-usman-haider)
 
 </div>
