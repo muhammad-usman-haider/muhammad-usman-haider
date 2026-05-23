@@ -1,6 +1,6 @@
 # 👋 Muhammad Usman Haider
 
-**Machine Learning Engineer | AI/ML Developer | Data Scientist**
+**Machine Learning Engineer | AI/ML Developer | Data Scientist | Flutter DEV**
 
 ---
 
