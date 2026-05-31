@@ -9,11 +9,11 @@
 Passionate Machine Learning Engineer with expertise in building intelligent systems, predictive models, and autonomous AI agents. I specialize in transforming complex data into actionable insights and developing scalable ML solutions. Committed to continuous learning and contributing to innovative projects that solve real-world problems.
 
 ---
-
-## 🎯 Professional Overview
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-usman-haider&theme=radical&hide_border=true)](https://git.io/streak-stats)
-</div>
+ 🎯 Professional Overview
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-usman-haider&theme=radical&hide_border=true)](https://git.io/streak-stats)</div>
+
 - **5+ Active Professional Projects** in ML, AI, and Data Science
 - **Expertise Areas:** Predictive Modeling, Classification, Regression, Agentic AI Systems
 - **Primary Languages:** Python, SQL, Jupyter Notebooks
