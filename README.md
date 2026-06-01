@@ -142,6 +142,7 @@ Professional Python Applications & Utilities
 ---
 
 ## 📈 Quick Reference
+<div align="center">
 
 | **Metric** | **Details** |
 |:----------:|:---------|
@@ -151,7 +152,7 @@ Professional Python Applications & Utilities
 | **License** | MIT (Open Source) |
 | **Availability** | Open to Opportunities & Collaboration |
 | **Status** | 🔥 Actively Contributing & Growing |
-
+</div>
 ---
 
 <div align="center">
