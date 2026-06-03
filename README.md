@@ -4,9 +4,15 @@
 
 ---
 
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-haider&theme=dark&hide_border=true)](https://github.com/muhammad-usman-haider)
+
+---
+
 ## 👋 Professional Summary
 
-Results-driven Machine Learning Engineer with expertise in designing and deploying intelligent systems, predictive models, and autonomous AI agents. Proven track record in transforming complex datasets into actionable insights and building scalable solutions for real-world business challenges.
+Results-driven Machine Learning Engineer with expertise in designing and deploying intelligent systems, predictive models, and autonomous AI agents. Proven track record in transforming complex data into actionable insights and building production-grade ML solutions.
 
 **Key Focus:** Predictive Analytics • Deep Learning • AI Agents • Production ML Systems
 
