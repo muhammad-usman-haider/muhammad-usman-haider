@@ -14,7 +14,7 @@
 
 Results-driven Machine Learning Engineer with expertise in designing and deploying intelligent systems, predictive models, and autonomous AI agents. Proven track record in transforming complex data into actionable insights and building production-grade ML solutions.
 
-**Key Focus:** Predictive Analytics • Deep Learning • AI Agents • Production ML Systems
+**Key Focus:** Predictive Analytics • Deep Learning • AI Agents • Production ML Systems-
 
 ---
 
