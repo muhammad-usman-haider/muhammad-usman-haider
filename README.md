@@ -3,11 +3,11 @@
 **AI Engineer | Machine Learning Engineer | AI Systems Architect | Data Scientist | Flutter DEV**
 
 ---
-
-## 📊 GitHub Activity
+<div align=center>
+📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-haider&theme=dark&hide_border=true)](https://github.com/muhammad-usman-haider)
-
+</div>
 ---
 
 ## 👋 Professional Summary
