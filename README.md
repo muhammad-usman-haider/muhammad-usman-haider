@@ -42,7 +42,7 @@ Results-driven Machine Learning Engineer with expertise in designing and deployi
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects-
 
 ### **Agentic Projects** 🤖
 Autonomous AI Agents & Multi-Agent Systems
