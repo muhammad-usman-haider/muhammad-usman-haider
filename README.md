@@ -3,11 +3,24 @@
 **AI Engineer | Machine Learning Engineer | AI Systems Architect | Data Scientist | Flutter DEV |**
 
 ---
-<div align=center>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadusmanhaider11&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadusmanhaider11&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusmanhaider11&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusmanhaider11&layout=compact&theme=tokyonight&border_radius=10" alt="Most Used Languages" />
+</div>
+
+<!-- <div align=center>
 📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-haider&theme=dark&hide_border=true)](https://github.com/muhammad-usman-haider)
-</div>
+</div> -->
 ---
 
 ## 👋 Professional Summary
