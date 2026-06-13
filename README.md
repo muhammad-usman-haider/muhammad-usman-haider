@@ -48,9 +48,13 @@ Results-driven Machine Learning Engineer with expertise in designing and deployi
 ### **Core Competencies**
 
 | **Machine Learning** | Classification • Regression • Feature Engineering • Model Optimization |
+
 | **Data Science** | EDA • Data Preprocessing • Statistical Analysis • Visualization |
+
 | **Deep Learning** | Neural Networks • TensorFlow • Advanced Architectures |
+
 | **AI Systems** | Autonomous Agents • Multi-Agent Systems • Decision Making |
+
 | **Methodologies** | End-to-End ML Pipelines • Cross-validation • Hyperparameter Tuning |
 
 ---
