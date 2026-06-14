@@ -4,16 +4,16 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadusmanhaider11&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-usman-haider&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadusmanhaider11&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusmanhaider11&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman-haider&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-haider&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusmanhaider11&layout=compact&theme=tokyonight&border_radius=10" alt="Most Used Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-haider&layout=compact&theme=tokyonight&border_radius=10" alt="Most Used Languages" />
 </div>
 
 <!-- <div align=center>
