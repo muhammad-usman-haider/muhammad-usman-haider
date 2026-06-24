@@ -2,7 +2,9 @@
 
 **AI Engineer | Machine Learning Engineer | AI Systems Architect | Data Scientist | Flutter DEV | Computer Vision | YOLO**
 
+📊 GitHub Activity
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-usman-haider&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -17,7 +19,7 @@
 </div> -->
 
 <div align=center>
-📊 GitHub Activity
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-usman-haider&theme=dark&hide_border=true)](https://github.com/muhammad-usman-haider)
 </div>
