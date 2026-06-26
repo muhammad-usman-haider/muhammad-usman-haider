@@ -105,7 +105,7 @@ Professional Python Applications & Utilities
 
 ## 🎯 Key Achievements
 
-✅ **5+ Actively Maintained** Professional repositories with MIT licensing  
+✅ **5+ Actively Maintained** Professional repositories with MIT licensing.
 ✅ **End-to-End ML Pipelines** from preprocessing to production deployment  
 ✅ **Production-Grade Code** with comprehensive documentation  
 ✅ **Proven Expertise** across multiple ML domains and applications  
