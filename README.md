@@ -133,7 +133,7 @@ Professional Python Applications & Utilities
 
 ---
 
-## 📞 Get In Touch...
+## 📞 Get In Touch....
 
 **Open to collaboration, consulting, and technical opportunities**
 
