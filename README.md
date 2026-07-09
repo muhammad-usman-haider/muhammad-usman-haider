@@ -123,7 +123,7 @@ Professional Python Applications & Utilities
 
 ---
 
-## 💡 What I Deliver...
+## 💡 What I Deliver..
 
 - **Custom ML Solutions** – Predictive models tailored to business objectives
 - **Data Intelligence** – Pattern extraction and actionable insights
