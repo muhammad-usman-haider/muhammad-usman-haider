@@ -46,7 +46,7 @@ Results-driven Machine Learning Engineer with expertise in designing and deployi
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-4B5563?style=for-the-badge) ![llamaIndex](https://img.shields.io/badge/LambdaIndex-2563EB?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-4B5563?style=for-the-badge) ![llamaIndex](https://img.shields.io/badge/llamaIndex-2563EB?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0EA5A4?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge)
 
